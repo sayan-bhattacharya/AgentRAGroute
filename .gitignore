@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+/portfolio/node_modules/
+/.pnp
+.pnp.js
+
+# Virtual Environment
+venv/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+/.next/
+/out/
+
+# Build outputs
+/build
+/dist
+
+# Misc
+.DS_Store
+*.pem
+.idea/
+__pycache__/
+*.pyc
